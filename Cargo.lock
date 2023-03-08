@@ -64,7 +64,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "serde_tutorial"
+name = "serde_phantomdata_example"
 version = "0.1.0"
 dependencies = [
  "serde",
